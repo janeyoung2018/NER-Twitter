@@ -1,6 +1,6 @@
 # Named Entity Recognition(NER) on Twitter 
 
-In this notewook, I will use 5 ways to solve custom Named Entity Recognition (NER) problem on Twitter. NER is a task that seeks to locate and classify named entities mentioned in unstructured text into pre-defined categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc.
+In these notewooks, I will use 5 ways to solve custom Named Entity Recognition (NER) problem on Twitter. NER is a task that seeks to locate and classify named entities mentioned in unstructured text into pre-defined categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc.
 
 In this dataset, we have 21 different tags for sentences.
 
