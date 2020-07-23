@@ -61,7 +61,7 @@ Below is the figure of micro F1-score of the five models. We can see that there 
 
 <img src="images/micro_f1_score.png">
 
-Below is figure of macro F1-score of the five models(remove over-represented label "O"). The F1-score increases 13% from model "Spark-NLP" to "simpletransformers". From model "simpletransformers-BERT" to "simpletransformers-BERT" it increases 5%:
+Below is figure of macro F1-score of the five models(remove over-represented label "O"). The F1-score increases 13% from model "Spark-NLP" to "simpletransformers". From model "simpletransformers-BERT" to "simpletransformers-RoBERTa" it increases 5%:
 
 <img src="images/macro_f1_score.png">
 
