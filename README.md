@@ -15,11 +15,11 @@ where 'B-' and 'I-' prefixes stand for the beginning and inside of the entity, '
 
 In the following three notebooks, we will use five ways to examine the dataset:
 
-- Naive Bayes multinomial model(NER-1.ipynb)
-- Conditional Random Fields (CRFs)(NER-1.ipynb)
-- Custom SpaCy(NER-1.ipynb)
-- BERT in Spark NLP(embedding with BERT)(NER-2.ipynb)
-- Simple Transformer(embedding with BERT and RoBERTa)(NER-3.ipynb) 
+- Naive Bayes multinomial model([NER-1.ipynb](https://github.com/janeyoung2018/NER-Twitter/blob/master/NER-1.ipynb))
+- Conditional Random Fields (CRFs)([NER-1.ipynb](https://github.com/janeyoung2018/NER-Twitter/blob/master/NER-1.ipynb))
+- Custom SpaCy([NER-1.ipynb](https://github.com/janeyoung2018/NER-Twitter/blob/master/NER-1.ipynb))
+- BERT in Spark NLP(embedding with BERT)([NER-2.ipynb](https://github.com/janeyoung2018/NER-Twitter/blob/master/NER-2.ipynb))
+- Simple Transformer(embedding with BERT and RoBERTa)([NER-3.ipynb](https://github.com/janeyoung2018/NER-Twitter/blob/master/NER-3.ipynb)) 
 
 ### Dataset
 
