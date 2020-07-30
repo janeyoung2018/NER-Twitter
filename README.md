@@ -80,7 +80,7 @@ The training time for models "Naive_Bayers", "CRFs", "SpaCy_NLP" are around 20mi
 
 ### Conclusion
 
-Despite the Twitter NER dataset is small and high imbalanced, the simpletransformers gives a remarkable macro-F1-score(0.60), especially with RoBERTa embedding(an optimized trained BERT). More importantly, the model is extremely easy to set up. Of course, a large dataset is necessary to increase the F1-score further. 
+Despite the Twitter NER dataset is small and highly imbalanced, the simpletransformers gives a remarkable macro-F1-score(0.60), especially with RoBERTa embedding(an optimized trained BERT). More importantly, the model is extremely easy to set up. Of course, a large dataset is necessary to increase the F1-score further. 
 
 
 
