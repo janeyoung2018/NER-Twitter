@@ -15,19 +15,12 @@ where 'B-' and 'I-' prefixes stand for the beginning and inside of the entity, '
 
 In the following three notebooks, we will use five ways to examine the dataset:
 
-<<<<<<< HEAD:NER-README.md
-- Naive Bayes multinomial model(NER-1.ipynb)
-- Conditional Random Fields (CRFs)(NER-1.ipynb)
-- Custom SpaCy(NER-1.ipynb)
-- BERT in Spark NLP(embedding with BERT)(NER-2.ipynb)
-- Simple Transformer(pretrained models BERT and RoBERTa)(NER-3.ipynb) 
-=======
 - Naive Bayes multinomial model([NER-1.ipynb](https://github.com/janeyoung2018/NER-Twitter/blob/master/NER-1.ipynb))
 - Conditional Random Fields (CRFs)([NER-1.ipynb](https://github.com/janeyoung2018/NER-Twitter/blob/master/NER-1.ipynb))
 - Custom SpaCy([NER-1.ipynb](https://github.com/janeyoung2018/NER-Twitter/blob/master/NER-1.ipynb))
 - BERT in Spark NLP(embedding with BERT)([NER-2.ipynb](https://github.com/janeyoung2018/NER-Twitter/blob/master/NER-2.ipynb))
-- Simple Transformer(embedding with BERT and RoBERTa)([NER-3.ipynb](https://github.com/janeyoung2018/NER-Twitter/blob/master/NER-3.ipynb)) 
->>>>>>> 0eb3d3f3de8c8ad6c9aead25d6f6930349cfb1c2:README.md
+- Simple Transformer(pretrained models BERT and RoBERTa)([NER-3.ipynb](https://github.com/janeyoung2018/NER-Twitter/blob/master/NER-3.ipynb)) 
+
 
 ### Dataset
 
@@ -88,11 +81,9 @@ The training time for models "Naive_Bayers", "CRFs", "SpaCy_NLP" are around 20mi
 
 ### Conclusion
 
-<<<<<<< HEAD:NER-README.md
-Despite the Twitter NER dataset is small and high imbalanced, the simpletransformers gives a remarkable macro-F1-score(0.60), especially with RoBERTa(an optimized trained BERT). More importantly, the model is extremely easy to set up. Of course, a large dataset is necessary to increase the F1-score further. 
-=======
-Despite the Twitter NER dataset is small and highly imbalanced, the simpletransformers gives a remarkable macro-F1-score(0.60), especially with RoBERTa embedding(an optimized trained BERT). More importantly, the model is extremely easy to set up. Of course, a large dataset is necessary to increase the F1-score further. 
->>>>>>> 0eb3d3f3de8c8ad6c9aead25d6f6930349cfb1c2:README.md
+
+Despite the Twitter NER dataset is small and highly imbalanced, the simpletransformers gives a remarkable macro-F1-score(0.60), especially with RoBERTa (an optimized trained BERT). More importantly, the model is extremely easy to set up. Of course, a large dataset is necessary to increase the F1-score further. 
+
 
 
 
